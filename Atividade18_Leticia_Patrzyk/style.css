@@ -1,0 +1,40 @@
+div{
+    background-color: rgb(80, 144, 165);
+    margin:5px;
+    color:white;
+  
+}
+
+div:hover{
+    background-color:lightblue;
+}
+
+
+
+span{
+    font-weight: bold;
+}
+
+
+h1.principal{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color:white;
+    background-color:lightblue;
+}
+h2.sec{
+    color:white;
+}
+footer#fot{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:white;
+   
+}
+
+body{
+    background-color: rgb(80, 144, 165);
+}
+
+.index{
+    color:white;
+}
